@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SellYourProduct/ViewController.swift"
+            timestampString = "558873872.604768"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "selectImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SellYourProduct.ViewController.selectImage(Any) -&gt; ()"
+                  moduleName = "SellYourProduct"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mugish/Documents/iOSAppProject2/SellYourProduct/SellYourProduct/ViewController.swift"
+                  timestampString = "558857985.4791681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SellYourProduct.ViewController.selectImage(Any) -&gt; ()"
+                  moduleName = "SellYourProduct"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mugish/Documents/iOSAppProject2/SellYourProduct/SellYourProduct/ViewController.swift"
+                  timestampString = "558857985.483173"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;YPImagePicker.YPMediaItem&gt;, Swift.Bool) -&gt; () in SellYourProduct.ViewController.selectImage(Any) -&gt; ()"
+                  moduleName = "SellYourProduct"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mugish/Documents/iOSAppProject2/SellYourProduct/SellYourProduct/ViewController.swift"
+                  timestampString = "558857985.490679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
